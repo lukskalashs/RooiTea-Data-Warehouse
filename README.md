@@ -19,7 +19,7 @@ The data pipeline was engineered to handle millions of rows with high data integ
    * Surrogate key generation for robust dimension linking.
 3. **Loading:** Transformed data is loaded into the `RooiTea_DW` Star Schema.
 
-![Star Schema Diagram](images/Screenshot 2026-06-23 143715.png)
+![Star Schema Diagram](/images/Screenshot%202026-06-23%20143715.png)
 
 ## 📊 Business Intelligence Dashboard
 The Power BI dashboard features 4 distinct analytical views. *(Note: The interactive `.pbix` file is available in the repository. A static PDF overview is available in the Documentation folder).*
