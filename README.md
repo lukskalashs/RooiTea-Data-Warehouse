@@ -26,15 +26,15 @@ The Power BI dashboard features 4 distinct analytical views. *(Note: The interac
 
 ### 1. Executive Overview
 Focuses on macro-level KPIs (Total Revenue, Inventory Value) and global sales footprints.
-![Executive Dashboard](images/Executiove Overview.png)
+![Executive Dashboard](/images/Executiove%20Overview.png)
 
 ### 2. Sales Analytics
 Drills down into market demographics, chronological revenue seasonality, and detailed product performance using conditionally formatted matrices.
-![Sales Analytics]([link-to-page2-screenshot])
+![Sales Analytics](/images/Sales%20Analytics.png)
 
 ### 3. Production & Yield Analytics
 Tracks the efficiency of the factory line, processing hours, and harvest volumes across 8 supply farms.
-![Production Dashboard](images/Production Analytics.png)
+![Production Dashboard](/images/Production%20Analytics.png)
 
 ## 🧠 Key Challenges & Solutions Overcome
 * **Ambiguous Filtering Paths:** Resolved complex circular relationships in Power BI between bridging dimensions (`DimBatch`) and time-intelligence tables (`DimDate`) by strategically managing active/inactive paths, ensuring accurate time-series calculations across 6 years of data.
